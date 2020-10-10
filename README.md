@@ -39,7 +39,7 @@ Para rodar esta aplicação você vai precisar ter instalado:
 * [Node](https://nodejs.org/)
 * [Yarn](https://yarnpkg.com/) 
 
-Agora clone este repositório e instale todas as dependências.
+Agora clone este repositório e desenvolva você mesmo sua própria home page do Instagram.
 ```bash
 #Para clonar este repositório
 $ git clone https://github.com/Nathan-Andrade/instagramHomePage.git
